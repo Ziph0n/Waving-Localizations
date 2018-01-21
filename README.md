@@ -1,6 +1,6 @@
 # Waving Localizations
 
-Waving is an upcoming dating application made by Ziph0n. I would like to translate Waving in as many languages as possible.
+Waving is an upcoming revolutionary dating application made by Ziph0n. I would like to translate Waving in as many languages as possible.
 
 ## How to translate Waving
 
@@ -8,7 +8,7 @@ If you're comfortable with git, fork this repository, edit the file to be transl
 
 If you're not comfortable with git, open the file to be translated on your browser, click on the pen (edit button), edit the file and click on "Pull Request"
 
-When you're translating a file, please put your Twitter handle at the top of the file. You will be credited either in the application or on the Waving website
+When you're translating a file, please put your Twitter handle at the top of the file. You will be credited either in the application or on Waving's website
 
 ## Languages
 
