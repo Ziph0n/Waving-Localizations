@@ -1,4 +1,4 @@
-# Waving-Localizations
+# Waving Localizations
 
 Waving is an upcoming dating application made by Ziph0n. I would like to translate Waving in as many languages as possible.
 
