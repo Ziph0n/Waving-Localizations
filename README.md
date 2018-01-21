@@ -22,7 +22,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### [Czech](cs.lproj)
 ### [Danish](da.lproj)
 ### [Dutch](nl.lproj)
-### [English](en.lproj)
+### ~~[English](en.lproj)~~
 ### [Finnish](fi.lproj)
 ### [French](fr.lproj)
 ### [German](de.lproj)
@@ -49,5 +49,3 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### [Turkish](tr.lproj)
 ### [Ukrainian](uk.lproj)
 ### [Vietnamese](vi.lproj)
-
-Thank you!
