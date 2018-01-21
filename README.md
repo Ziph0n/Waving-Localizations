@@ -10,6 +10,16 @@ If you're not comfortable with git, open the file to be translated on your brows
 
 When you're translating a file, please put your Twitter handle at the top of the file. You will be credited either in the application or on Waving's website
 
+## Instructions
+
+`"%d miles away" = "%d miles away";`
+
+* Do not modify anything before the equal (=) sign. Only translate what's after the equal sign.
+
+* Keep all quotation mark (")
+
+* Keep %d and %@, do not remove them. They indicate a decimal number (%d) or a text (%@)
+
 ## Languages
 
 If your language isn't listed, please message me on Twitter or create an issue and I'll add your language.
