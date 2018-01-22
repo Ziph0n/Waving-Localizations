@@ -44,7 +44,7 @@
 "Delete Account" = "حذف الحساب";
 "Details" = "تفاصيل";
 "Discovery" = "إستكشاف";
-"Discovery Settings" = "إعداداتالإستكشاف";
+"Discovery Settings" = "إعدادات الإستكشاف";
 "Dismiss" = "رفض";
 "Do you really want to reset your password?" = "هل أن تقوم بإعادة ضبط كلمة المرور الخاصةبكٓ؟";
 "Don't have an account?" = "ليس لديك حِساب ؟";
@@ -59,10 +59,10 @@
 "Forgot password?" = "نسيت كلمة المرور ؟";
 "Gender" = "الجنس";
 "Get a Premium Access" = "أحصل على وصول راقي";
-"Go Ghost" = "إذهب شبح";
-"Go Ghost!" = "إذهب شبح!";
-"Go Premium" = "اذهب راقي";
-"Go Premium!" = "إذهب راقي!";
+"Go Ghost" = "أصبِح شبحاً";
+"Go Ghost!" = "أصبِح شبحاً";
+"Go Premium" = "أصبِح راقي";
+"Go Premium!" = "أصبِح راقي";
 "Green" = "أخضر";
 "Hide Info" = "إخفي المعلومات";
 "Hide My Age" = "إخفي عُمري";
