@@ -20,8 +20,8 @@
 "An error occurred. Please try again later" = "Một lỗi đã xảy ra. Xin thử lại sau";
 "An error occurred. Please try again later.\nDetails: %@" = "Một lỗi đã xảy ra. Xin thử lại sau.\nDetails: %@";
 "An error occurred.\nDetails: %@" = "Một lỗi đã xảy ra.\nChi tiết: %@";
-"Blue" = "Blue";
-"Both" = "Both";
+"Blue" = "Xanh biển";
+"Both" = "Cả hai";
 "Buy more chat requests" = "Mua nhiều yêu cầu trò chuyện hơn";
 "By signing in, you agree to our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "Bằng việc đăng nhập, bạn đồng ý với chúng tôi về <t>Điều khoản dịch vụ</t> và <p>Chính sách bảo mật</p>";
 "Cancel" = "Hủy";
@@ -147,7 +147,7 @@
 "Seems like spam" = "Có vẻ giống spam";
 "Select a color" = "Chọn màu";
 "Select your birthday" = "Chọn ngày sinh của bạn";
-"Send" = "Send";
+"Send" = "Gửi";
 "Send a chat request" = "Gửi một yêu cầu trò chuyện";
 "Set as main" = "Đặt là chủ";
 "Set tag" = "Cài đặt tag";
