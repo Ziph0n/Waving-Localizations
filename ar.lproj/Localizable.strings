@@ -6,7 +6,7 @@
   Copyright © 2017 Florian Hebrard. All rights reserved.
 */
 
-// Tranlated by ... @Wh0ba
+// Tranlated by @Wh0ba
 
 "%@ at %@" = "%@ في %@";
 "%d miles away" = "على بعد %d ميلاً";
@@ -116,7 +116,7 @@
 "Only Women" = "نساء فقط";
 "Orange" = "برتقالي";
 "Other" = "اخرى";
-"Out of likes! Go premium or wait %@" = "%@ لم يتبقى اي إعجابات ! احصل على حساب راقي او إنتظر";
+"Out of likes! %@" = "%@ لم يتبقى اي إعجابات !";
 "Password" = "كلمة المرور";
 "Password requirements: Minimum 8 characters and at least 1 number" = "شروط كلمة المرور: على الأقل ثمان احرف و رقم واحد";
 "Please confirm by entering your password" = "الرجاء التأكيد بإدخالك لكلمة المرور";

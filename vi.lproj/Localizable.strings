@@ -6,7 +6,7 @@
   Copyright © 2017 Florian Hebrard. All rights reserved.
 */
 
-// Tranlated by ...@phamdaiquannhan
+// Tranlated by @phamdaiquannhan
 
 "%@ at %@" = "%@ Ở %@";
 "%d miles away" = "Cách %d dặm";
@@ -116,7 +116,7 @@
 "Only Women" = "Chỉ nữ";
 "Orange" = "Màu cam";
 "Other" = "Khác";
-"Out of likes! Go premium or wait %@" = "Không thích! Nâng cấp Premium hoặc chờ %@";
+"Out of likes! %@" = "Không thích! %@";
 "Password" = "Mật khẩu";
 "Password requirements: Minimum 8 characters and at least 1 number" = "Yêu cầu mật khẩu: Tối thiểu 8 kí tự và có ít nhất 1 số";
 "Please confirm by entering your password" = "Hãy xác nhận bằng việc nhập mật khẩu của bạn";
