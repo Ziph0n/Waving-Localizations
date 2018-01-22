@@ -6,7 +6,7 @@
   Copyright © 2017 Florian Hebrard. All rights reserved.
 */
 
-// Tranlated by @JackUAre
+// Tranlated by @lulgatealive
 
 "%@ at %@" = "%@ በ %@";
 "%d miles away" = "%d ማይሎች ርቀት";
@@ -197,33 +197,33 @@
 "What's your name?" = "What's your name?";
 "When's your birthday?" = "When's your birthday?";
 "Why are you reporting this user?" = "Why are you reporting this user?";
-"Woman" = "Woman";
-"Women" = "Women";
-"Write your message here..." = "Write your message here...";
-"Yellow" = "Yellow";
-"Yes" = "Yes";
-"You already sent a chat request to %@" = "You already sent a chat request to %@";
-"You can't delete your main recording" = "You can't delete your main recording";
-"You did not give us the permission to use your location. Until you change your mind, you can’t use the app.\n\nPlease tap on the Settings button below and enable Location services for Waving!" = "You did not give us the permission to use your location. Until you change your mind, you can’t use the app.\n\nPlease tap on the Settings button below and enable Location services for Waving!";
-"You don't have chat requests anymore\nYou'll get new ones in %@" = "You don't have chat requests anymore\nYou'll get new ones in %@";
-"You don't have likes anymore\nYou'll get new ones in %@" = "You don't have likes anymore\nYou'll get new ones in %@";
-"You entered an invalid email address." = "You entered an invalid email address.";
-"You got a match with %@!" = "You got a match with %@!";
-"You have %d chat request" = "You have %d chat request";
-"You have %d chat requests" = "You have %d chat requests";
-"You need to be at least 18 years old to use Waving. Please come back later!" = "You need to be at least 18 years old to use Waving. Please come back later!";
-"You received an image" = "You received an image";
-"You sent an image" = "You sent an image";
-"Your Premium Access has expired." = "Your Premium Access has expired.";
-"Your account has been disabled" = "Your account has been disabled";
-"Your email address has been updated!" = "Your email address has been updated!";
-"Your name shouldn't contain any numbers or special characters" = "Your name shouldn't contain any numbers or special characters";
-"Your password" = "Your password";
-"Your password has been successfully reset. An email with your confirmation has been sent." = "Your password has been successfully reset. An email with your confirmation has been sent.";
-"Your password has been updated!" = "Your password has been updated!";
-"Your profile will be hidden without one" = "Your profile will be hidden without one";
-"Your recording is too long. Try again" = "Your recording is too long. Try again";
-"Your recording is too short. Please keep recording..." = "Your recording is too short. Please keep recording...";
+"Woman" = "ሴት";
+"Women" = "ሴቶች";
+"Write your message here..." = "መልእክትዎን እዚህ ይጻፉ...";
+"Yellow" = "ቢጫ";
+"Yes" = "አዎ";
+"You already sent a chat request to %@" = "እርስዎ አስቀድመው የውይይት ጥያቄ ልከዋል ለ %@";
+"You can't delete your main recording" = "ዋናውን ቅጂዎን መሰረዝ አይችሉም";
+"You did not give us the permission to use your location. Until you change your mind, you can’t use the app.\n\nPlease tap on the Settings button below and enable Location services for Waving!" = "አካባቢዎን ለመጠቀም ፈቃድ አልሰጡንም:: ሃሳብዎን እስኪቀይሩ ድረስ፤ መተግበሪያውን መጠቀም አይችሉም.\n\nእባክዎ ከስር ያለው የቅንብሮች አዝራርን መታ ያድርጉ እና የ "Waving" የሥፍራ አገልግሎትን ያንቁ!";
+"You don't have chat requests anymore\nYou'll get new ones in %@" = "ከእንግዲህ የውይይት ጥያቄዎች የለህም\nአዳዲስ ያገኛሉ ውስጥ %@";
+"You don't have likes anymore\nYou'll get new ones in %@" = "ከእንግዲህ ወዲያ አትወደዱም\nአዳዲስ ያገኛሉ ውስጥ %@";
+"You entered an invalid email address." = "ልክ ያልኾነ የኢሜይል አድራሻ አስገብተሃል/ሻል.";
+"You got a match with %@!" = "ግጥሚያ አግኝተዋል ከ %@!";
+"You have %d chat request" = "አለህ %d የውይይት ጥያቄ";
+"You have %d chat requests" = "አለህ %d የውይይት ጥያቄዎች";
+"You need to be at least 18 years old to use Waving. Please come back later!" = "Waving ለመጠቀም እድሜዎ ቢያንስ 18 ዓመት መሆን አለብዎት. እባክዎ በኋላ ተመልሰው ይምጡ!";
+"You received an image" = "ምስል ተቀብለዋል";
+"You sent an image" = "ምስል ልከዋል";
+"Your Premium Access has expired." = "የእርስዎ ፕሪሚየም አግልግሎት ጊዜው አልፎበታል::";
+"Your account has been disabled" = "የእርስዎ መለያ ተዘግቷል";
+"Your email address has been updated!" = "የኢሜይል አድራሻዎ ተሻሽሏል!";
+"Your name shouldn't contain any numbers or special characters" = "ስምዎ ምንም ቁጥሮችን ወይም ልዩ ምልክቶችን መያዝ የለበትም";
+"Your password" = "የይለፍ ቃልዎ";
+"Your password has been successfully reset. An email with your confirmation has been sent." = "የይለፍ ቃልዎ በተሳካ ሁኔታ ዳግም ተጀምሯል:: የማረጋገጫዎ ኢሜይል ተልኳል::";
+"Your password has been updated!" = "የይለፍ ቃልዎ ተሻሽሏል!";
+"Your profile will be hidden without one" = "የእርስዎ መገለጫ ያለ አንድ ይደበቃል";
+"Your recording is too long. Try again" = "ቅጂዎ በጣም ረጅም ነው እንደገና ይሞክሩ";
+"Your recording is too short. Please keep recording..." = "ቅጂዎ በጣም አጭር ነው:: እባክዎ መቅዳትዎን ይቀጥሉ...";
 "You’ve entered the wrong password. Try again" = "የተሳሳተ የይለፍ ቃል አስገብተዋል:: እንደገና ይሞክሩ";
 "monthly" = "በየወሩ";
 "Loading..." = "በመክፈት ላይ...";
