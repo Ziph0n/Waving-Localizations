@@ -8,9 +8,9 @@
 
 // Tranlated by @frostle1 (Philipp Rathmanner)
 
-"%@ at %@" = "%@ at %@";
-"%d miles away" = "%d miles away";
-"Access to cloud service information is not allowed" = "Zugang zu den Cloud Server Informationen ist nicht erlaubt.";
+"%@ at %@" = "%@ bei %@";
+"%d miles away" = "%d Meilen entfernt";
+"Access to cloud service information is not allowed" = "Zugang zu den Cloud Server Informationen ist nicht gestattet.";
 "Add a job" = "Füge einen Beruf hinzu";
 "Age Range" = "Altersbereich";
 "An error occurred while deleting your account. Please try again later.\nDetails: %@" = "Beim Löschen deines Accounts ist ein Fehler aufgetreten. Versuche es später erneut.\nDetails: %@";
