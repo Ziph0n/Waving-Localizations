@@ -25,7 +25,7 @@ When you're translating a file, please put your Twitter handle at the top of the
 If your language isn't listed, please message me on Twitter or create an issue and I'll add your language.
 
 ### [Amharic](am.lproj)
-### [Amharic (Ethiopia](am-ET.lproj)
+### [Amharic (Ethiopia)](am-ET.lproj)
 ### ~~[Arabic](ar.lproj)~~
 ### [Catalan](ca.lproj)
 ### [Chinese (Simplified)](zh-Hans.lproj)
