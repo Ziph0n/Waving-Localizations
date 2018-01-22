@@ -22,7 +22,7 @@
 "An error occurred.\nDetails: %@" = "حدثَ خطأ .\nتفاصيل: %@";
 "Blue" = "أزرق";
 "Both" = "كلاهما";
-"Buy more chat requests" = "إشتري المزيد من طلبات الدردشة";
+"Get more chat requests" = "إشتري المزيد من طلبات الدردشة";
 "By signing in, you agree to our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "بتسجيلك للدخول, أنت توافق على <t>شروط الخدمة</t> و <p>سياسة الخصوصية</p>";
 "Cancel" = "إلغاء ";
 "Chat" = "دردشة";
@@ -44,7 +44,7 @@
 "Delete Account" = "حذف الحساب";
 "Details" = "تفاصيل";
 "Discovery" = "إستكشاف";
-"Discovery Settings" = "إعدادات الإستكشاف";
+"Discovery Settings" = "إعداداتالإستكشاف";
 "Dismiss" = "رفض";
 "Do you really want to reset your password?" = "هل أن تقوم بإعادة ضبط كلمة المرور الخاصةبكٓ؟";
 "Don't have an account?" = "ليس لديك حِساب ؟";
@@ -59,10 +59,10 @@
 "Forgot password?" = "نسيت كلمة المرور ؟";
 "Gender" = "الجنس";
 "Get a Premium Access" = "أحصل على وصول راقي";
-"Go Ghost" = "أصبِح شبحاً";
-"Go Ghost!" = "أصبِح شبحاً";
-"Go Premium" = "أصبِح راقي";
-"Go Premium!" = "أصبِح راقي";
+"Go Ghost" = "إذهب شبح";
+"Go Ghost!" = "إذهب شبح!";
+"Go Premium" = "اذهب راقي";
+"Go Premium!" = "إذهب راقي!";
 "Green" = "أخضر";
 "Hide Info" = "إخفي المعلومات";
 "Hide My Age" = "إخفي عُمري";
