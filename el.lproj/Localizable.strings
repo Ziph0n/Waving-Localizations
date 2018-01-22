@@ -209,7 +209,8 @@
 "You don't have likes anymore\nYou'll get new ones in %@" = "Δεν έχετε άλλα like\nΘα έχετε νεά σε %@";
 "You entered an invalid email address." = "Συμπληρώσατε λάθος διεύθυνση email.";
 "You got a match with %@!" = "Κάνατε match με %@!";
-"You have %d chat request(s)" = "Έχετε %d αίτημα(τα) ομιλίας";
+"You have %d chat request" = "Έχετε %d αίτημα ομιλίας";
+"You have %d chat requests" = "Έχετε %d αίτηματα ομιλίας";
 "You need to be at least 18 years old to use Waving. Please come back later!" = "Πρέπει να είστε τουλάχιστον 18 για να χρησιμοποίησετε το Waving. Δοκιμάστε αργότερα!";
 "You received an image" = "Λάβατε μια φωτογραφία";
 "You sent an image" = "Στείλατε μια φωτογρσαφία";
