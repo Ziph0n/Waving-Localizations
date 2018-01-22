@@ -209,7 +209,8 @@
 "You don't have likes anymore\nYou'll get new ones in %@" = "You don't have likes anymore\nYou'll get new ones in %@";
 "You entered an invalid email address." = "You entered an invalid email address.";
 "You got a match with %@!" = "You got a match with %@!";
-"You have %d chat request(s)" = "You have %d chat request(s)";
+"You have %d chat request" = "You have %d chat request";
+"You have %d chat requests" = "You have %d chat requests";
 "You need to be at least 18 years old to use Waving. Please come back later!" = "You need to be at least 18 years old to use Waving. Please come back later!";
 "You received an image" = "You received an image";
 "You sent an image" = "You sent an image";
