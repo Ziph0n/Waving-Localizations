@@ -37,7 +37,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### ~~[English](en.lproj)~~
 ### [Finnish](fi.lproj)
 ### [French](fr.lproj)
-### [German](de.lproj)
+### ~~[German](de.lproj)~~
 ### ~~[Greek](el.lproj)~~
 ### [Hebrew](he.lproj)
 ### [Hindi](hi.lproj)
