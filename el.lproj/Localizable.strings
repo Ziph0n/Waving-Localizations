@@ -22,11 +22,11 @@
 "An error occurred.\nDetails: %@" = "Προέκυψε σφάλμα.\Λεπτομέρειες: %@";
 "Blue" = "Μπλε";
 "Both" = "Και τα 2";
-"Get more chat requests" = "Αγορά περισσότερων αιτημάτων συνομιλίας";
+"Get more chat requests" = "Αγορά περισσότερων αιτημάτων ομιλίας";
 "By signing in, you agree to our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "Με τη συνδεσή σας, δηλώνετε ότι συμφωνείτε με τους <t>Όρους χρήσης</t> μας και την <p>Πολιτική Απόρρητου</p>";
 "Cancel" = "Ακύρωση";
 "Chat" = "Συνομιλία";
-"Chat Requests" = "Αιτήματα Συνομιλίας";
+"Chat Requests" = "Αιτήματα Ομιλίας";
 "Choose a custom location from the map. See all the peoples!" = "Επιλέξτε μια τοποθεσία της προτίμησής σας από το χάρτη. Δείτε όλα τα άτομα!";
 "Choose from library" = "Επιλογή από βιβλιοθήκη";
 "Close" = "Κλείσιμο";
@@ -80,8 +80,8 @@
 "Invalid Email" = "Μη έγκυρο Email";
 "It seems that you already created a Waving account via Facebook. Please login via Facebook." = "Έχετε ήδη δημιουργήσει λογαριασμό Waving μέσω Facebook. Παρακαλώ συνδεθείτε μέσω Facebook.";
 "It seems that you already have a Waving account. Please login with your account" = "Έχετε ήδη λογαριασμό Waving. Παρακαλώ συνδεθείτε με το λογαριασμό σας";
-"Kick off 5 more chat requests every 12 hours!" = "5 νέα αιτήματα συνομιλίας κάθε 12 ώρες!";
-"Know when you get a match, a chat request or a message!" = "Ενημερωθείτε όταν έχετε match, αίτημα συνομιλίας ή μήνυμα!";
+"Kick off 5 more chat requests every 12 hours!" = "5 περισσότερα αιτήματα ομιλίας κάθε 12 ώρες!";
+"Know when you get a match, a chat request or a message!" = "Ενημερωθείτε όταν έχετε match, αίτημα ομιλίας ή μήνυμα!";
 "Legal Notices" = "Νομικά";
 "Let's record your first recording!" = "Ας κάνουμε την πρώτη ηχογράφηση!";
 "Like as many people as you want! No limits." = "Κάντε like σε όσα άτομα θέλετε! Μηδέν όρια.";
@@ -148,7 +148,7 @@
 "Select a color" = "Επιλέξτε χρώμα";
 "Select your birthday" = "Επιλέξτε τα γενέθλιά σας";
 "Send" = "Αποστολή";
-"Send a chat request" = "Αποστολή αιτήματος συνομιλίας";
+"Send a chat request" = "Αποστολή αιτήματος ομιλίας";
 "Set as main" = "Ρύθμιση ως κύριου";
 "Set tag" = "Ρύθμιση ετικέτας";
 "Settings" = "Ρυθμίσεις";
@@ -202,7 +202,7 @@
 "Write your message here..." = "Γράψτε το μήνυμα σας εδώ...";
 "Yellow" = "Κίτρινο";
 "Yes" = "Ναι";
-"You already sent a chat request to %@" = "Έχετε ήδη στείλειο αίτημα συνομιλίας προς %@";
+"You already sent a chat request to %@" = "Έχετε ήδη στείλει αίτημα ομιλίας προς %@";
 "You can't delete your main recording" = "Δεν επιτρέπεται να διαγραφεί η κύρια ηχογράφηση σας";
 "You did not give us the permission to use your location. Until you change your mind, you can’t use the app.\n\nPlease tap on the Settings button below and enable Location services for Waving!" = "Δε μας δόθηκε η άδεια χρήσης της τοποθεσίας. Μέχρι να αλλάξετε γνώμη, δε μπορείτε να χρησιμοποίησετε την εφαρμογή.\n\nΠαρακαλώ πατήστε στο κουμπί των Ρυθμίσεων παρακάτω για να επιτρέψετε τη χρήση των υπηρεσιών τοποθεσίας για το Waving!";
 "You don't have chat requests anymore\nYou'll get new ones in %@" = "Δεν έχεις αιτήματα ομιλίας πια\nΘα έχεις νέα σε %@";
@@ -227,10 +227,10 @@
 "You’ve entered the wrong password. Try again" = "Συμπληρώσατε λάθος κωδικό. Δοκιμάστε ξανά";
 "monthly" = "Μηνιαία";
 "Loading..." = "Φόρτωση...";
-"Not enough chat requests" = "Not enough chat requests";
-"Start kicking off chat requests again now!" = "Start kicking off chat requests again now!";
-"Chat request" = "Chat request";
-"each" = "each";
-"Do you really want to log out?" = "Do you really want to log out?";
-"Do you really want to delete your account?" = "Do you really want to delete your account?";
+"Not enough chat requests" = "Ανεπαρκή αιτήματα ομιλίας";
+"Start kicking off chat requests again now!" = "Ξεκινήστε τα αιτήματα ομιλίας ξανά!";
+"Chat request" = "Άιτημα ομιλίας";
+"each" = "καθένα";
+"Do you really want to log out?" = "Θέλετε σίγουρα να αποσυνδεθείτε;";
+"Do you really want to delete your account?" = "Θέλετε σίγουρα να διαγράψετε το λογαριασμό σας;";
 
