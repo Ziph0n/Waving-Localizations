@@ -231,6 +231,6 @@
 "Start kicking off chat requests again now!" = "تشغيل إرسال طلبات الدردشة مجدداً الآن";
 "Chat request" = "طلب دردشة";
 "each" = "كُلُ";
-"Do you really want to log out?" = "Do you really want to log out?";
-"Do you really want to delete your account?" = "Do you really want to delete your account?";
+"Do you really want to log out?" = "هل أنت متأكد انك تريد تسجيل الخروج؟";
+"Do you really want to delete your account?" = "هل أنت متأكد انك تريد حذف حسابك";
 
