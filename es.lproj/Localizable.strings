@@ -22,7 +22,7 @@
 "An error occurred.\nDetails: %@" = "An error occurred.\nDetails: %@";
 "Blue" = "Blue";
 "Both" = "Both";
-"Buy more chat requests" = "Buy more chat requests";
+"Get more chat requests" = "Get more chat requests";
 "By signing in, you agree to our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "By signing in, you agree to our <t>Terms of Service</t> and <p>Privacy Policy</p>";
 "Cancel" = "Cancel";
 "Chat" = "Chat";
@@ -116,7 +116,7 @@
 "Only Women" = "Only Women";
 "Orange" = "Orange";
 "Other" = "Other";
-"Out of likes! Go premium or wait %@" = "Out of likes! Go premium or wait %@";
+"Out of likes! %@" = "Out of likes! %@";
 "Password" = "Password";
 "Password requirements: Minimum 8 characters and at least 1 number" = "Password requirements: Minimum 8 characters and at least 1 number";
 "Please confirm by entering your password" = "Please confirm by entering your password";
@@ -227,3 +227,10 @@
 "You’ve entered the wrong password. Try again" = "You’ve entered the wrong password. Try again";
 "monthly" = "monthly";
 "Loading..." = "Loading...";
+"Not enough chat requests" = "Not enough chat requests";
+"Start kicking off chat requests again now!" = "Start kicking off chat requests again now!";
+"Chat request" = "Chat request";
+"each" = "each";
+"Do you really want to log out?" = "Do you really want to log out?";
+"Do you really want to delete your account?" = "Do you really want to delete your account?";
+

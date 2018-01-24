@@ -22,7 +22,7 @@
 "An error occurred.\nDetails: %@" = "Произошла ошибка.\nДетали: %@";
 "Blue" = "Синий";
 "Both" = "Оба";
-"Buy more chat requests" = "Купить больше запросов чата";
+"Get more chat requests" = "Купить больше запросов чата";
 "By signing in, you agree to our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "Войдя, вы соглашаетесь с нашими <t>Правилами сервиса</t> and <p>Политикой приватности</p>";
 "Cancel" = "Отмена";
 "Chat" = "Чат";
@@ -227,3 +227,9 @@
 "You’ve entered the wrong password. Try again" = "Вы ввели неверный пароль. Попробуйте снова";
 "monthly" = "ежемесячно";
 "Loading..." = "Загрузка...";
+"Not enough chat requests" = "Not enough chat requests";
+"Start kicking off chat requests again now!" = "Start kicking off chat requests again now!";
+"Chat request" = "Chat request";
+"each" = "each";
+"Do you really want to log out?" = "Do you really want to log out?";
+"Do you really want to delete your account?" = "Do you really want to delete your account?";

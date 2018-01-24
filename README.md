@@ -24,7 +24,9 @@ When you're translating a file, please put your Twitter handle at the top of the
 
 If your language isn't listed, please message me on Twitter or create an issue and I'll add your language.
 
-### [Arabic](ar.lproj)
+### [Amharic](am.lproj)
+### [Amharic (Ethiopia)](am-ET.lproj)
+### ~~[Arabic](ar.lproj)~~
 ### [Catalan](ca.lproj)
 ### [Chinese (Simplified)](zh-Hans.lproj)
 ### [Chinese (Traditional)](zh-Hant.lproj)
@@ -35,8 +37,8 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### ~~[English](en.lproj)~~
 ### [Finnish](fi.lproj)
 ### [French](fr.lproj)
-### [German](de.lproj)
-### [Greek](el.lproj)
+### ~~[German](de.lproj)~~
+### ~~[Greek](el.lproj)~~
 ### [Hebrew](he.lproj)
 ### [Hindi](hi.lproj)
 ### [Hungarian](hu.lproj)
@@ -58,4 +60,4 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### [Thai](th.lproj)
 ### [Turkish](tr.lproj)
 ### [Ukrainian](uk.lproj)
-### [Vietnamese](vi.lproj)
+### [Vietnamese](vi.lproj) (80% done)
