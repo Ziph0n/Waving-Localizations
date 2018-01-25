@@ -52,12 +52,12 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### [Portuguese (Brazil)](pt-BR.lproj)
 ### [Portuguese (Portugal)](pt-PT.lproj)
 ### [Romanian](ro.lproj)
-### [Russian](ru.lproj)
+### ~~[Russian](ru.lproj)~~
 ### [Slovak](sk.lproj)
-### [Spanish](es.lproj)
+### ~~[Spanish](es.lproj)~~
 ### [Spanish (Latin America)](es-419.lproj)
 ### [Swedish](sv.lproj)
 ### [Thai](th.lproj)
 ### [Turkish](tr.lproj)
 ### [Ukrainian](uk.lproj)
-### [Vietnamese](vi.lproj) (80% done)
+### [Vietnamese](vi.lproj) (90% done)
