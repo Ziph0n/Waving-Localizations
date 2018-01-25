@@ -59,10 +59,10 @@
 "Forgot password?" = "መክፈቻ ቁልፉን ረሳኽው/ሽዉ?";
 "Gender" = "ፆታ";
 "Get a Premium Access" = "ፕሪሚየም አገልግሎት ያግኙ";
-"Go Ghost" = "ሂድ/ጂ መንፈስ";
-"Go Ghost!" = "ሂድ/ጂ መንፈስ!";
-"Go Premium" = "ሂድ/ጂ ፕሪሚየም";
-"Go Premium!" = "ሂድ/ጂ ፕሪሚየም!";
+"Go Ghost" = "ሁን/ኚ መንፈስ";
+"Go Ghost!" = "ሁን/ኚ መንፈስ!";
+"Go Premium" = "ሁን/ኚ ፕሪሚየም";
+"Go Premium!" = "ሁን/ኚ ፕሪሚየም!";
 "Green" = "አረንጓዴ";
 "Hide Info" = "መረጃ ደብቅ";
 "Hide My Age" = "የእኔን ዕድሜ ደብቅ";
@@ -72,7 +72,7 @@
 "Hides your profile from other users, but will preserve full access to Waving!" = "መገለጫዎን ከሌሎች ተጠቃሚዎች ይደብቃል፤ግን ወደ Waving ሙሉ መዳረስ ይጠበቃል::";
 "I am a" = "እኔ ነኝ";
 "I want to be notified!" = "ማሳወቂያ እንዲደርሰኝ እፈልጋለሁ!";
-"I'm searching for" = "እኔ እፈልገዋለሁ";
+"I'm searching for" = "እኔ ምፈልገዉ";
 "If you can't see any jobs, please first add a job to your Facebook account." = "ምንም አይነት ስራ ማየት ካልቻሉ እባክዎ በመጀመሪያ ወደ ፌስቡክ መለያዎ ሥራ ያስገቡ.";
 "Inappropriate message(s)" = "ተገቢ ያልሆነ መልዕክት/ቶች";
 "Inappropriate recording(s)" = "ተገቢ ያልሆነ ቀረጻ/ዎች";
@@ -116,7 +116,7 @@
 "Only Women" = "ሴቶች ብቻ";
 "Orange" = "ብርቱካናማ";
 "Other" = "ሌላ";
-"Out of likes! %@" = "ከ መውደድ ውጪ! %@";
+"Out of likes! %@" = "ከ መወደድ ውጪ! %@";
 "Password" = "የይለፍ ቃል";
 "Password requirements: Minimum 8 characters and at least 1 number" = "የይለፍ ቃል መስፈርቶች:- ቢያንስ 8 ፊደል እና ቢያንስ 1 ቁጥር";
 "Please confirm by entering your password" = "እባክዎ የይለፍ ቃልዎን በማስገባት ያረጋግጡ";
@@ -139,7 +139,7 @@
 "Recording name" = "የቅጂ ስም";
 "Red" = "ቀይ";
 "Remove tag" = "መለያ አስወግድ";
-"Report %@" = "ማመልከት %@";
+"Report %@" = "አመልክት %@ን ";
 "Report Reason" = "ማመልከቻ ምክንያት";
 "Restore Premium" = "ፕሪሚየም እነበረበት መልስ";
 "Retry now" = "አሁን እንደገና ሞክር";
