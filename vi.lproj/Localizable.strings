@@ -227,7 +227,10 @@
 "You’ve entered the wrong password. Try again" = "Sai mật khẩu. Hãy thử lại";
 "monthly" = "Hàng tháng";
 "Loading..." = "Đang tải...";
-"Not enough chat requests" = "Not enough chat requests";
-"Start kicking off chat requests again now!" = "Start kicking off chat requests again now!";
-"Chat request" = "Chat request";
-"each" = "each";
+"Not enough chat requests" = "Không đủ yêu cầu trò chuyện";
+"Start kicking off chat requests again now!" = "Bắt đầu lại yêu cầu trò chuyện ngay bây giờ!";
+"Chat request" = "Yêu cầu trò chuyện";
+"each" = "Mỗi";
+"Do you really want to log out?" = "Bạn thực sự muốn đăng xuất chứ?";
+"Do you really want to delete your account?" = "Bạn thực sự muốn xoá tài khoản của mình chứ?";
+
