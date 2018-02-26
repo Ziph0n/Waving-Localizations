@@ -23,3 +23,7 @@ There are 3 folders with different files to translate, please translate them all
 * Keep %d and %@, do not remove them. They indicate a decimal number (%d) or a text (%@)
 
 If your language isn't listed, please message me on Twitter or create an issue and I'll add your language.
+
+## Languages done
+
+* French
