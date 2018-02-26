@@ -10,8 +10,6 @@ If you're comfortable with git, fork this repository, edit the file to be transl
 
 If you're not comfortable with git, open the file to be translated on your browser, click on the pen (edit button), edit the file and click on "Pull Request"
 
-When you're translating a file, please put your Twitter handle at the top of the file. You will be credited either in the application or on Waving's website
-
 ## Instructions
 
 There are 3 folders with different files to translate, please translate them all if you can. There's also a sketch file containing the screenshots of Waving for the App Store. Please only touch to the text to translate it. Don't touch to the images
