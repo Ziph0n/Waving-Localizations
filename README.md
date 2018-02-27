@@ -27,16 +27,19 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### App Localization
 
 * Arabic
+* Dutch
 * English
 * French
 
 ### General Localization
 
-* English
+* Dutch
+* Englisha
 * French
 
 ### Other Localization
 
+* Dutch (Screenshots missing)
 * English
 * German (Screenshots missing)
 * French
