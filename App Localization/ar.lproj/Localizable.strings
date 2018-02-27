@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   Waving
 
@@ -7,9 +7,10 @@
 */
 
 // Tranlated by @Wh0ba
+// Translated by @ismailhnd
 
 "%@ at %@" = "%@ في %@";
-"%d miles away" = "على بعد %d ميلاً";
+"%d miles away" = "على بعد %d ميلا";
 "Access to cloud service information is not allowed" = "الوصول الى خدمات السحابة غير مسموح";
 "Add a job" = "أضِف عملاً";
 "Age Range" = "مجال الُعمر";
@@ -201,10 +202,10 @@
 "Write your message here..." = "أكتب رسالتك هنا.....";
 "Yellow" = "أصفر";
 "Yes" = "نعم";
-"You already sent a chat request to %@" = "%@لقد قمت مسبقاً بارسال طلب دردشة الى";
+"You already sent a chat request to %@" = " %@ لقد قمت مسبقاً بارسال طلب دردشة الى";
 "You can't delete your main recording" = "لايمكنك حذف تسجيلك الرئيسي ";
 "You did not give us the permission to use your location. Until you change your mind, you can’t use the app.\n\nPlease tap on the Settings button below and enable Location services for Waving!" = "لم تسمح لنا بأستخدام موقعك. الى ان تغير رأيك, لايمكنك إستخدام التطبيق.\n\nرجاءً قم بالضغط على زر الأعدادت وفعل خدمات الموق لويڤينگ!   ";
-"You don't have chat requests anymore\nYou'll get new ones in %@" = "انت لاتمتلك اي طلبات دردشة\nستحصل على طلبات جديدة في %@";
+"You don't have chat requests anymore\nYou'll get new ones in %@" = "انت لاتمتلك اي طلبات دردشةستحصل على طلبات جديدة ف ي ";
 "You don't have likes anymore\nYou'll get new ones in %@" = "انت لاتمتلك اي إعجابات\n%@ستحصل على إعجابات جديدة في";
 "You entered an invalid email address." = "لقد أدخلت عنوانٓ بريدٍ خاطئٍ.";
 "You got a match with %@!" = "%@لقد حصلت على تطابق مع ";
@@ -232,21 +233,21 @@
 "each" = "كُلُ";
 "Do you really want to log out?" = "هل أنت متأكد انك تريد تسجيل الخروج؟";
 "Do you really want to delete your account?" = "هل أنت متأكد انك تريد حذف حسابك";
-"Out of chat requests! %@" = "Out of chat requests! %@";
-"Swipe" = "Swipe";
-"to refresh" = "to refresh";
-"Name" = "Name";
-"Licenses" = "Licenses";
+"Out of chat requests! %@" = " %@ !لم تبقى لديك طلبات محادثة";
+"Swipe" = "اسحب";
+"to refresh" = "للتحديث";
+"Name" = "الاسم";
+"Licenses" = "رخصة";
 "Waving" = "Waving";
-"Password requirements: Minimum 6 characters" = "Password requirements: Minimum 6 characters";
-" at " = " at ";
-"Chat Request Accepted" = "Chat Request Accepted";
-"Congratulations! %@ accepted your chat request!" = "Congratulations! %@ accepted your chat request!";
-"Chat Request Declined" = "Chat Request Declined";
-"Unfortunately, %@ declined your chat request" = "Unfortunately, %@ declined your chat request";
-"New Chat Request" = "New Chat Request";
-"%@ sent you a chat request" = "%@ sent you a chat request";
-"New Message" = "New Message";
-"%@ sent you a message" = "%@ sent you a message";
-"New Match" = "New Match";
-"Congratulations! You got a match with %@!" = "Congratulations! You got a match with %@!";
+"Password requirements: Minimum 6 characters" = "متطلبات كلمة المرور : 6 أحرف كحد أدنى";
+" at " = " على ";
+"Chat Request Accepted" = "تم قبول طلب المحادثة ";
+"Congratulations! %@ accepted your chat request!" = "مبروك!  @%  وافق على طلب المحادث";
+"Chat Request Declined" = "تم رفض طلب المحادثة";
+"Unfortunately, %@ declined your chat request" = "لسوء الحظ ،%@  رفض طلب المحادثة  ";
+"New Chat Request" = "طلب محادثة جديد";
+"%@ sent you a chat request" = "ارسل لك طلب محادثة جديد %@";
+"New Message" = "رسالة جديدة ";
+"%@ sent you a message" = " ارسل لك رسالة جديدة %@";
+"New Match" = "تطابق جديد";
+"Congratulations! You got a match with %@!" = "!%@ مبروك ! لقد وجدت تطابق مع ";
