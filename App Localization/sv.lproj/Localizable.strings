@@ -19,7 +19,7 @@
 "An error occurred while uploading your recording.\nDetails: %@" = "Ett fel uppstod under uppladdningen av din inspelning.\nDetaljer: %@";
 "An error occurred. Please try again later" = "Ett fel uppstod. Var vänlig försök igen senare";
 "An error occurred. Please try again later.\nDetails: %@" = "Ett fel uppstod. Var vänlig försök igen senare.\nDetaljer: %@";
-"An error occurred.\nDetails: %@" = "An error occurred.\nDetails: %@";
+"An error occurred.\nDetails: %@" = "Ett fel uppstod.\nDetaljer: %@";
 "Blue" = "Blå";
 "Both" = "Båda";
 "Get more chat requests" = "Få mer chattförfrågninar";
