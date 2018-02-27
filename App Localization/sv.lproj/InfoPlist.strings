@@ -8,5 +8,5 @@
 
 "NSCameraUsageDescription" = "Waving behöver din tillåtelse för att använda kameran";
 "NSLocationWhenInUseUsageDescription" = "Waving behöver din tillåtelse för att använda kameran";
-"NSMicrophoneUsageDescription" = "behöver din tillåtelse för att använda mikrofonen";
-"NSPhotoLibraryUsageDescription" = "behöver din tillåtelse för att använda ditt fotobibliotek";
+"NSMicrophoneUsageDescription" = "Waving behöver din tillåtelse för att använda mikrofonen";
+"NSPhotoLibraryUsageDescription" = "Waving behöver din tillåtelse för att använda ditt fotobibliotek";
