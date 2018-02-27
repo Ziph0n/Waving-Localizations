@@ -8,7 +8,7 @@
 
 // Tranlated by Alexander Andersson Tholin (@ATholin)
 
-"%@ at %@" = "%@ hos %@";
+"%@ at %@" = "%@ vid %@";
 "%d miles away" = "%d miles bort";
 "Access to cloud service information is not allowed" = "Tillgång till molntjänst information är inte tillåtet";
 "Add a job" = "Lägg till ett yrke";
@@ -80,7 +80,7 @@
 "Invalid Email" = "Ogiltig E-post";
 "It seems that you already created a Waving account via Facebook. Please login via Facebook." = "Du verkar redan ha skapat ett Waving-konto genom Facebook. Var god logga in genom Facebook.";
 "It seems that you already have a Waving account. Please login with your account" = "Du verkar redan ha skapat ett Waving-konto. Var god logga in med ditt konto";
-"Kick off 5 chat requests every 12 hours!" = "Kick off 5 chat requests every 12 hours!";
+"Kick off 5 chat requests every 12 hours!" = "Skicka 5 chattförfrågningar var 12:e timme!";
 "Know when you get a match, a chat request or a message!" = "Få reda på när du får en match, chattförfrågning eller meddelande!";
 "Legal Notices" = "Rättsliga meddelanden";
 "Let's record your first recording!" = "Låt oss börja med din första inspelning!";
@@ -228,7 +228,7 @@
 "monthly" = "månadsvis";
 "Loading..." = "Laddar...";
 "Not enough chat requests" = "Inte nog med chattförfrågninar";
-"Start kicking off chat requests again now!" = "Start kicking off chat requests again now!";
+"Start kicking off chat requests again now!" = "Börja skicka chattförfrågningar igen nu!";
 "Chat request" = "Chattförfrågningar";
 "each" = "styck";
 "Do you really want to log out?" = "Är du säker på att du vill logga ut?";
