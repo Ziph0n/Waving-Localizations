@@ -35,8 +35,10 @@ If your language isn't listed, please message me on Twitter or create an issue a
 ### General Localization
 
 * Dutch
-* Englisha
+* English
 * French
+* German
+* Swedish
 
 ### Other Localization
 
@@ -44,3 +46,4 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * English
 * German (Screenshots missing)
 * French
+* Swedish (Screenshots missing)
