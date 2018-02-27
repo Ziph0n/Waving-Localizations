@@ -17,14 +17,26 @@ There are 3 folders with different files to translate, please translate them all
 `"%d miles away" = "%d miles away";`
 
 * Do not modify anything before the equal (=) sign. Only translate what's after the equal sign.
-
 * Keep all quotation mark (")
-
 * Keep %d and %@, do not remove them. They indicate a decimal number (%d) or a text (%@)
 
 If your language isn't listed, please message me on Twitter or create an issue and I'll add your language.
 
 ## Languages done
 
+### App Localization
+
+* Arabic
 * English
+* French
+
+### General Localization
+
+* English
+* French
+
+### Other Localization
+
+* English
+* German (Screenshots missing)
 * French
