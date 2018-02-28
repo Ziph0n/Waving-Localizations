@@ -31,6 +31,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * English
 * French
 * German
+* Swedish
 
 ### General Localization
 
