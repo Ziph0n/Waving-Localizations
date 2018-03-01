@@ -1,4 +1,4 @@
-/* 
+/*
   InfoPlist.strings
   Waving
 
@@ -6,7 +6,7 @@
   Copyright © 2018 Florian Hebrard. All rights reserved.
 */
 
-"NSCameraUsageDescription" = "Waving needs your permission to use the camera";
-"NSLocationWhenInUseUsageDescription" = "Waving needs your permission to use your location";
-"NSMicrophoneUsageDescription" = "Waving needs your permission to use the microphone";
-"NSPhotoLibraryUsageDescription" = "Waving needs your permission to access your photo library";
+"NSCameraUsageDescription" = "Waving necesita tu permiso para usar la cámara";
+"NSLocationWhenInUseUsageDescription" = "Waving necesita permiso para usar tu localización";
+"NSMicrophoneUsageDescription" = "Waving necesita tu permiso para usar el micrófono";
+"NSPhotoLibraryUsageDescription" = "Waving necesita permiso para acceder a tu galería de fotos";
