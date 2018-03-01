@@ -31,6 +31,9 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * English
 * French
 * German
+* Portuguese (used Portuguese (Brazil))
+* Portuguese (Brazil)
+* Spanish (Latin America)
 * Swedish
 
 ### General Localization
@@ -39,6 +42,9 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * English
 * French
 * German
+* Portuguese (used Portuguese (Brazil))
+* Portuguese (Brazil)
+* Spanish (Latin America)
 * Swedish
 
 ### Other Localization
@@ -47,4 +53,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * English
 * German (Screenshots missing)
 * French
+* Portuguese (used Portuguese (Brazil)) (Screenshots missing)
+* Portuguese (Brazil) (Screenshots missing)
+* Spanish (Latin America)
 * Swedish (Screenshots missing)
