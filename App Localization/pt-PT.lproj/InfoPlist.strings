@@ -6,7 +6,7 @@
   Copyright © 2018 Florian Hebrard. All rights reserved.
 */
 
-"NSCameraUsageDescription" = "Waving needs your permission to use the camera";
-"NSLocationWhenInUseUsageDescription" = "Waving needs your permission to use your location";
-"NSMicrophoneUsageDescription" = "Waving needs your permission to use the microphone";
-"NSPhotoLibraryUsageDescription" = "Waving needs your permission to access your photo library";
+"NSCameraUsageDescription" = "Waving precisa da sua autorização para utilizar a câmera";
+"NSLocationWhenInUseUsageDescription" = "Waving precisa da sua autorização para utilizar sua localização";
+"NSMicrophoneUsageDescription" = "Waving precisa da sua autorização para utilizar o microfone";
+"NSPhotoLibraryUsageDescription" = "Waving precisa da sua autorização para acessar sua biblioteca de fotos";

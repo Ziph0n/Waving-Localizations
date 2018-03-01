@@ -1,14 +1,14 @@
-5 Chat Requests
-Get 5 chat requests
+5 Solicitações de bate-papo
+Obtenha 5 pedidos de bate-papo
 
-20 Chat Requests
-Get 20 chat requests
+20 solicitações de bate-papo
+Obtenha 20 pedidos de bate-papo
 
-50 Chat Requests
-Get 50 chat requests
+50 Solicitações de bate-papo
+Obtenha 50 pedidos de bate-papo
 
-Premium Access: 1 month
+Acesso Premium: 1 mês
 
-Premium Access: 3 months
+Acesso Premium: 3 meses
 
-Premium Access: 6 months
+Acesso Premium: 6 meses
