@@ -47,7 +47,7 @@
 "Discovery Settings" = "Cài đặt khám phá";
 "Dismiss" = "Hủy bỏ";
 "Do you really want to reset your password?" = "Bạn thực sự muốn đặt lại mật khẩu chứ?";
-"Don't have an account?" = "Bạn đã có một tài khoản?";
+"Don't have an account?" = "Bạn chưa có tài khoản?";
 "Don't miss %@!" = "Đừng bỏ lỡ %@!";
 "Done" = "Xong";
 "E-Mail" = "E-Mail";
@@ -95,7 +95,7 @@
 "Log in with Facebook" = "Đăng nhập bằng Facebook";
 "Looking for" = "Tìm kiếm";
 "Man" = "Nam";
-"Manage Recording" = "Quản lí bản ghi";
+"Manage Recording" = "Quản lí bản ghi âm";
 "Maximum Distance (in miles)" = "Khoảng cách tối đa (dặm)";
 "Men" = "Nam";
 "Message sent" = "Tin nhắn đã gửi";
@@ -119,7 +119,7 @@
 "Out of likes! %@" = "Không thích! %@";
 "Password" = "Mật khẩu";
 "Please confirm by entering your password" = "Hãy xác nhận bằng việc nhập mật khẩu của bạn";
-"Please enter a name for your recording" = "Đặt tên cho bản ghi của bạn";
+"Please enter a name for your recording" = "Đặt tên cho bản ghi âm của bạn";
 "Please enter your current password, and then your new password to update your password." = "Hãy nhập mật khẩu hiện tại của bạn, và sau đó là mật khẩu mới để cập nhật mật khẩu.";
 "Please enter your email address" = "Nhập email của bạn";
 "Please enter your password to permanently delete your account." = "Nhập mật khẩu để xóa vĩnh viễn tài khoản của bạn.";
@@ -135,7 +135,7 @@
 "Purchase failed" = "Trả phí thất bại";
 "Purple" = "Màu tím";
 "Reason (required)" = "Lý do (yêu cầu)";
-"Recording name" = "Tên bản ghi";
+"Recording name" = "Tên bản ghi âm";
 "Red" = "Màu đỏ";
 "Remove tag" = "Xóa tag";
 "Report %@" = "Báo cáo %@";
