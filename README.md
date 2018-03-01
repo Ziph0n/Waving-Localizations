@@ -36,6 +36,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * Portuguese (Brazil)
 * Spanish (Latin America)
 * Swedish
+* Vietnamese
 
 ### General Localization
 
