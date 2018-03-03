@@ -1,12 +1,13 @@
-/* 
-  InfoPlist.strings
-  Waving
+/*
+ InfoPlist.strings
+ Waving
+ 
+ Created by Florian Hebrard on 26/02/2018.
+ Copyright © 2018 Florian Hebrard. All rights reserved.
+ */
 
-  Created by Florian Hebrard on 26/02/2018.
-  Copyright © 2018 Florian Hebrard. All rights reserved.
-*/
+"NSCameraUsageDescription" = "Vous pourrez utiliser votre caméra pour envoyer des images";
+"NSLocationWhenInUseUsageDescription" = "Votre localisation est utilisé pour trouver des personnes à proximité";
+"NSMicrophoneUsageDescription" = "Votre microphone est utilisé pour enregistrer votre voix afin d'ajouter vos enregistrements sur votre profil";
+"NSPhotoLibraryUsageDescription" = "Vous pourrez envoyer des images provenant de votre librairie";
 
-"NSCameraUsageDescription" = "Waving a besoin de votre permission pour utiliser la caméra";
-"NSLocationWhenInUseUsageDescription" = "Waving a besoin de votre permission pour utiliser votre localisation";
-"NSMicrophoneUsageDescription" = "Waving a besoin de votre permission pour utiliser votre microphone";
-"NSPhotoLibraryUsageDescription" = "Waving a besoin de votre permission pour accéder à votre librairie";
