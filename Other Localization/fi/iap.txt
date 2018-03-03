@@ -1,14 +1,14 @@
-5 Chat Requests
-Get 5 chat requests
+5 Viestipyyntöä
+Hanki 5 viestipyyntöä
 
-20 Chat Requests
-Get 20 chat requests
+20 viestipyyntöä
+Hanki 20 viestipyyntöä
 
-50 Chat Requests
-Get 50 chat requests
+50 viestipyyntöä
+Hanki 50 viestipyyntöä
 
-Premium Access: 1 month
+Premium: 1 kuukausi
 
-Premium Access: 3 months
+Premium: 3 kuukautta
 
-Premium Access: 6 months
+Premium: 6 kuukautta
