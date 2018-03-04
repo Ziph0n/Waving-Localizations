@@ -30,10 +30,12 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * Arabic
 * Dutch
 * English
+* Finnish
 * French
 * German
 * Portuguese (used Portuguese (Brazil))
 * Portuguese (Brazil)
+* Spanish
 * Spanish (Latin America)
 * Swedish
 * Vietnamese
@@ -42,10 +44,12 @@ If your language isn't listed, please message me on Twitter or create an issue a
 
 * Dutch
 * English
+* Finnish
 * French
 * German
 * Portuguese (used Portuguese (Brazil))
 * Portuguese (Brazil)
+* Spanish
 * Spanish (Latin America)
 * Swedish
 
@@ -54,8 +58,10 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * Dutch (Screenshots missing)
 * English
 * German (Screenshots missing)
+* Finnish (Screenshots missing)
 * French
 * Portuguese (used Portuguese (Brazil)) (Screenshots missing)
 * Portuguese (Brazil) (Screenshots missing)
+* Spanish (Screenshots of Spanish (Latin America) used)
 * Spanish (Latin America)
 * Swedish (Screenshots missing)
