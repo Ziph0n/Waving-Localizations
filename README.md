@@ -32,7 +32,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * English (by @JackUAre)
 * Finnish (by @joonasilvennoin)
 * French (by @Ziph0n)
-* German (by @frostle1)
+* German (by @frostle1 and @@boxer6091)
 * Portuguese (used Portuguese (Brazil))
 * Portuguese (Brazil) (by @guischults)
 * Spanish (by @Ohms714)
