@@ -6,8 +6,8 @@
  Copyright © 2018 Florian Hebrard. All rights reserved.
  */
 
-"NSCameraUsageDescription" = "You will be able to use your camera to send images";
-"NSLocationWhenInUseUsageDescription" = "Your location is used to find people nearby";
-"NSMicrophoneUsageDescription" = "Your microphone is used to record your voice and add recordings to your profile";
-"NSPhotoLibraryUsageDescription" = "You will be able to send images from your library";
+"NSCameraUsageDescription" = "Bạn sẽ có thể sử dụng máy ảnh của bạn để gửi hình ảnh";
+"NSLocationWhenInUseUsageDescription" = "Vị trí của bạn được sử dụng để tìm những người ở gần";
+"NSMicrophoneUsageDescription" = "Micro của bạn được sử dụng để ghi giọng nói của bạn và thêm bản ghi vào trang cá nhân của bạn";
+"NSPhotoLibraryUsageDescription" = "Bạn sẽ có thể gửi hình ảnh từ thư viện ảnh của bạn";
 
