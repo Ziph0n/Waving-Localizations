@@ -26,19 +26,19 @@ If your language isn't listed, please message me on Twitter or create an issue a
 
 ### App Localization
 
-* Amharic
-* Arabic
-* Dutch
-* English
-* Finnish
-* French
-* German
+* Amharic (by @lulgatealive)
+* Arabic (by @Wh0ba and @ismailhnd)
+* Dutch (by hacks4live and @guillaume_seur)
+* English (by @JackUAre)
+* Finnish (by @joonasilvennoin)
+* French (by @Ziph0n)
+* German (by @frostle1)
 * Portuguese (used Portuguese (Brazil))
-* Portuguese (Brazil)
-* Spanish
-* Spanish (Latin America)
-* Swedish
-* Vietnamese
+* Portuguese (Brazil) (by @guischults)
+* Spanish (by @Ohms714)
+* Spanish (Latin America) (by @EngelTz)
+* Swedish (by @ATholin)
+* Vietnamese (by @phamdaiquannhan)
 
 ### General Localization
 
