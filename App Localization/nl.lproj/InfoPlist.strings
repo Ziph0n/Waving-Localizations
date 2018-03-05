@@ -5,8 +5,8 @@
  Created by Florian Hebrard on 26/02/2018.
  Copyright © 2018 Florian Hebrard. All rights reserved.
  */
-
-"NSCameraUsageDescription" = "You will be able to use your camera to send images";
-"NSLocationWhenInUseUsageDescription" = "Your location is used to find people nearby";
-"NSMicrophoneUsageDescription" = "Your microphone is used to record your voice and add recordings to your profile";
-"NSPhotoLibraryUsageDescription" = "You will be able to send images from your library";
+ 
+"NSCameraUsageDescription" = "U kunt uw camera gebruiken om afbeeldingen te verzenden";
+"NSLocationWhenInUseUsageDescription" = "Je locatie wordt gebruikt om mensen in de buurt te vinden";
+"NSMicrophoneUsageDescription" = "Uw microfoon wordt gebruikt om uw stem op te nemen en opnames aan uw profiel toe te voegen";
+"NSPhotoLibraryUsageDescription" = "U kunt afbeeldingen uit uw bibliotheek verzenden";
