@@ -1,27 +1,27 @@
-Meet people. With your voice.
+Tapaa ihmisiä. Äänesi avulla.
 
-WAVING: WHAT IS IT?
+WAVING: MIKÄ SE ON?
 
-Waving is a unique revolutionary dating application solely based on the voice. The voice can reveal the beauty, kindness and true personality of a person.
-You will not be influenced by a misleading image or context. Words are all important and appeal to your imagination.
-Reveal yourself.
+Waving on ainutlaatuinen ja vallankumouksellinen deittailusovellus, joka perustuu ainoastaan ääneen. Ääni voi paljastaa kauneuden, ystävällisyyden ja henkilön todellisen persoonallisuuden. 
+Et saa vaikutteita harhaanjohtavista kuvista tai sisällöistä. Sanat ovat kaikki tärkeitä ja vetoavat mielikuvitukseesi.
+Paljasta itsesi.
 
-HOW DOES IT WORK?
+KUINKA SE TOIMII?
 
-Nothing's easier:
-- You create your account either with your Facebook account or with your email address and password
-- You record your voice, you talk about what you want (the number of recording is unlimited)
-- The profiles that match you and close to you are displayed
-- You swipe right if you like the profile
-- You swipe left if you do not like the profile
-- If there is a match, then you can chat privately
-- You can also send a chat request to differentiate yourself from other profiles
+Ei voisi olla helpompaa:
+- Luo tili käyttäen joko Facebookia tai sähköpostia ja salasanaa
+- Äänitä puhettasi ja kerro mitä haluat (äänitteiden määrä on rajoittamaton)
+- Sinulle näytetään lähellä olevat ja soveltuvimmat profiilit
+- Pyyhkäise oikealle, jos pidät profiilista
+- Pyyhkäise vasemmalle, jos et pidä profiilista
+- Jos saatte osuman, voitte jutella yksityisesti
+- Voit myös lähettää viestipyynnön erottuaksesi muista profiileista
 
-Downloading and using Waving are free! Enjoy!
+Wavingin lataaminen ja käyttäminen on ilmaista! Nauti!
 
 ------------------------------
 
-Waving Premium Terms
-If you choose to purchase a Waving Premium subscription, your payment will be made through your iTunes account, and the amount will always be withdrawn 24 hours before the end of each period. Your subscription will automatically renew until auto-renew is turned off at least 24 hours before the end of the current period. You can disable auto-renew at any time in iTunes Store settings. The subscription to Waving Premium is currently offered at $28.99 for 6 months, $18.99 for 3 months and $7.99 for 1 month. The price of the subscription may vary outside the United States. The paid subscription to Waving Premium is not obligatory. You can continue to use Waving for free.
+Waving Premium- tilauksen ehdot
+Jos päätät hankkia Waving Premium- tilauksen, maksu veloitetaan iTunes-tililtäsi. Tilaus uusitaan automaattisesti ja maksu veloitetaan 24 tuntia ennen tilausjakson päättymistä. Tilaus uusitaan automaattisesti niin kauan, kunnes tilauksen uusiminen on otettu pois päältä vähintään 24 tuntia ennen tilausjakson päättymistä. Voit kytkeä automaattisen uusinnan asetukset pois päältä milloin tahansa oston jälkeen iTunes Store-asetuksistasi. Waving Premium- tilauksen hinta on tällä hetkellä kuudeksi kuukaudeksi 24.33€, kolmeksi kuukaudeksi 15.94€ ja kuukaudeksi 6.70€. Tilauksen hinta voi vaihdella Yhdysvaltojen ulkopuolella. Waving Premium-tilauksen hankkiminen ei ole pakollista, voit jatkaa Wavingin käyttöä ilmaiseksi.
 https://waving.ziph0n.com/privacy.html
 https://waving.ziph0n.com/terms.html
