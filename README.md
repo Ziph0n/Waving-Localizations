@@ -35,6 +35,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * German (by @frostle1 and @@boxer6091)
 * Portuguese (used Portuguese (Brazil))
 * Portuguese (Brazil) (by @guischults)
+* Russian (by Fearcatcher and @25el3ment)
 * Spanish (by @Ohms714)
 * Spanish (Latin America) (by @EngelTz)
 * Swedish (by @ATholin)
@@ -49,6 +50,7 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * German
 * Portuguese (used Portuguese (Brazil))
 * Portuguese (Brazil)
+* Russian
 * Spanish
 * Spanish (Latin America)
 * Swedish
@@ -58,10 +60,11 @@ If your language isn't listed, please message me on Twitter or create an issue a
 * Dutch (Screenshots missing)
 * English
 * German (Screenshots missing)
-* Finnish (Screenshots missing)
+* Finnish
 * French
 * Portuguese (used Portuguese (Brazil)) (Screenshots missing)
 * Portuguese (Brazil) (Screenshots missing)
-* Spanish (Screenshots of Spanish (Latin America) used)
-* Spanish (Latin America)
+* Russian (Screenshots missing)
+* Spanish (Screenshots missing)
+* Spanish (Latin America) (Screenshots missing)
 * Swedish (Screenshots missing)
