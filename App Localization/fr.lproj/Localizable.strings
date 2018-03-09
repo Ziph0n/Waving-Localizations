@@ -55,10 +55,10 @@
 "Edit Profile" = "Editez votre profil";
 "Enter your password" = "Entrez votre mot de passe";
 "Error" = "Erreur";
-"Failed restoring your Premium Access. Please try again later." = "Impossible de restaurer votre accès Prèmium. Veuillez réessayez plus tard.";
+"Failed restoring your Premium Access. Please try again later." = "Impossible de restaurer votre accès premium. Veuillez réessayez plus tard.";
 "Forgot password?" = "Mot de passe oublié ?";
 "Gender" = "Genre";
-"Get a Premium Access" = "Acheter un accès Prèmium";
+"Get a Premium Access" = "Acheter un accès premium";
 "Go Ghost" = "Devenir invisible";
 "Go Ghost!" = "Devenir invisible !";
 "Go Premium" = "Go Premium";
@@ -129,7 +129,7 @@
 "Please select your gender" = "Veuillez sélectionner un genre";
 "Please select your preferred gender" = "Veuillez sélectionnez votre genre préféré";
 "Premium" = "Premium";
-"Premium Access Restored!" = "Accès prèmium restauré !";
+"Premium Access Restored!" = "Accès premium restauré !";
 "Privacy Policy" = "Politique de confidentialité";
 "Profile" = "Profil";
 "Purchase completed" = "Achat finalisé";
@@ -141,7 +141,7 @@
 "Remove tag" = "Enlever le tag";
 "Report %@" = "Signaler %@";
 "Report Reason" = "Raison du signalement";
-"Restore Premium" = "Restaurer l‘accès Prèmium";
+"Restore Premium" = "Restaurer l‘accès premium";
 "Retry now" = "Réessayer";
 "Search" = "Chercher";
 "Seems like spam" = "On dirait du spam";

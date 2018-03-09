@@ -1,13 +1,12 @@
-/*
+﻿/*
  InfoPlist.strings
  Waving
  
- Created by Florian Hebrard on 26/02/2018.
+ Created by @25el3ment
  Copyright © 2018 Florian Hebrard. All rights reserved.
  */
 
-"NSCameraUsageDescription" = "You will be able to use your camera to send images";
-"NSLocationWhenInUseUsageDescription" = "Your location is used to find people nearby";
-"NSMicrophoneUsageDescription" = "Your microphone is used to record your voice and add recordings to your profile";
-"NSPhotoLibraryUsageDescription" = "You will be able to send images from your library";
-
+"NSCameraUsageDescription" = "Ваша камера используется для фото и видео";
+"NSLocationWhenInUseUsageDescription" = "Ваше местонахождение используется чтобы найти людей вокруг вас";
+"NSMicrophoneUsageDescription" = "Ваш микрофон используется для записи звука и вашего голоса";
+"NSPhotoLibraryUsageDescription" = "Ваш фото альбом используется для прикрепления фото и видео  к вашему профайлу";

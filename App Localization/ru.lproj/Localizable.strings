@@ -1,4 +1,4 @@
-/* 
+﻿/* 
   Localizable.strings
   Waving
 
@@ -227,27 +227,27 @@
 "You’ve entered the wrong password. Try again" = "Вы ввели неверный пароль. Попробуйте снова";
 "monthly" = "ежемесячно";
 "Loading..." = "Загрузка...";
-"Not enough chat requests" = "Not enough chat requests";
-"Start kicking off chat requests again now!" = "Start kicking off chat requests again now!";
-"Chat request" = "Chat request";
-"each" = "each";
-"Do you really want to log out?" = "Do you really want to log out?";
-"Do you really want to delete your account?" = "Do you really want to delete your account?";
-"Out of chat requests! %@" = "Out of chat requests! %@";
-"Swipe" = "Swipe";
-"to refresh" = "to refresh";
-"Name" = "Name";
-"Licenses" = "Licenses";
-"Waving" = "Waving";
-" at " = " at ";
-"Chat Request Accepted" = "Chat Request Accepted";
-"Congratulations! %@ accepted your chat request!" = "Congratulations! %@ accepted your chat request!";
-"Chat Request Declined" = "Chat Request Declined";
-"Unfortunately, %@ declined your chat request" = "Unfortunately, %@ declined your chat request";
-"New Chat Request" = "New Chat Request";
-"%@ sent you a chat request" = "%@ sent you a chat request";
-"New Message" = "New Message";
-"%@ sent you a message" = "%@ sent you a message";
-"New Match" = "New Match";
-"Congratulations! You got a match with %@!" = "Congratulations! You got a match with %@!";
-"This purchase will be applied on confirmation. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. See our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "This purchase will be applied on confirmation. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. See our <t>Terms of Service</t> and <p>Privacy Policy</p>";
+"Not enough chat requests" = " Не достаточно чат запросов";
+"Start kicking off chat requests again now!" = "Начни рассылать чат запросы прямо сейчас!";
+"Chat request" = "Чат запрос";
+"each" = "каждый";
+"Do you really want to log out?" = "Вы действительно хотите выйти ?";
+"Do you really want to delete your account?" = "Вы действительно хотите удалить аккаунт?";
+"Out of chat requests! %@" = "Больше чат запросов нет %@";
+"Swipe" = "Сдвинь пальцем";
+"to refresh" = "обновить";
+"Name" = "Имя";
+"Licenses" = "Лицензии";
+"Waving" = "Помахать";
+" at " = " на ";
+"Chat Request Accepted" = "Чат запрос принят";
+"Congratulations! %@ accepted your chat request!" = "Поздравляем! %@ принял ваш чат запрос!";
+"Chat Request Declined" = "Чат запрос отклонен";
+"Unfortunately, %@ declined your chat request" = "К сожалению, %@ отклонил ваш чат запрос";
+"New Chat Request" = "Новый чат запрос";
+"%@ sent you a chat request" = "%@ отправил вам чат запрос";
+"New Message" = "Новое сообщение";
+"%@ sent you a message" = "%@ отправил вам сообщение";
+"New Match" = "Новое совпадение";
+"Congratulations! You got a match with %@!" = "Поздравляем! У вас новое совпадение";
+"This purchase will be applied on confirmation. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. See our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "Эта покупка будет автоматически завершена при подтверждении запроса. Все подписки будут автоматически обновлены если подписка не отменяна за 24 часа до конца текущего периода. Вы можете отменить подписку в любое время через настройки iTunes.  Смотрите  наши<t>Terms of Service</t> and <p>Privacy Policy</p>";
