@@ -209,8 +209,8 @@
 "You don't have likes anymore\nYou'll get new ones in %@" = "هیچ  لایکێکت نەماوە\n %@یەکى نوێ وەردەگرى لە ";
 "You entered an invalid email address." = "ئیمەیلێکى هەڵەت نوسیوە";
 "You got a match with %@!" = " %@! تۆ لە پەیوەندیدایت لەگەڵ";
-"You have %d chat request" = "You have %d chat request";
-"You have %d chat requests" = "You have %d chat requests";
+"You have %d chat request" = "تۆ هەتە %d داواکارى نامە";
+"You have %d chat requests" = "تۆ هەتە %d داواکارى نامەکان";
 "You need to be at least 18 years old to use Waving. Please come back later!" = "دەبێت بەلایەنى کەمەوە ١٨ ساڵبیت بۆ بەکارهێنانى ئەم بەرنامەیە";
 "You received an image" = "وێنەیەکت پێگەیشت";
 "You sent an image" = "وێنەیەکت نارد";
