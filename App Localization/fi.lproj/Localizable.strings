@@ -21,11 +21,11 @@
 "An error occurred. Please try again later.\nDetails: %@" = "Tapahtui virhe. Yritä myöhemmin uudelleen.\nDetails: %@";
 "An error occurred.\nDetails: %@" = "Tapahtui virhe.\nDetails: %@";
 "Blue" = "Sininen";
-"Both" = "Molemmat";
+"Both" = "Molempia";
 "Get more chat requests" = "Saa enemmän viestipyyntöjä";
 "By signing in, you agree to our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "Kirjautumalla hyväksyt <t>Käyttöehdot</t> ja <p>Tietosuojakäytännön</p>";
 "Cancel" = "Peruuta";
-"Chat" = "Chat";
+"Chat" = "Viestit";
 "Chat Requests" = "Viestipyynnöt";
 "Choose a custom location from the map. See all the people!" = "Valitse sijainti kartalta. Näe kaikki ihmiset!";
 "Choose from library" = "Valitse galleriasta";
@@ -43,8 +43,8 @@
 "Delete" = "Poista";
 "Delete Account" = "Poista käyttäjätili";
 "Details" = "Yksityiskohdat";
-"Discovery" = "Discovery";
-"Discovery Settings" = "Discovery Settings";
+"Discovery" = "Löydä";
+"Discovery Settings" = "Löytämisen asetukset";
 "Dismiss" = "OK";
 "Do you really want to reset your password?" = "Haluatko varmasti palauttaa salasanasi?";
 "Don't have an account?" = "Eikö sinulla ole tiliä?";
@@ -59,10 +59,10 @@
 "Forgot password?" = "Ulohditko salasanan?";
 "Gender" = "Sukupuoli";
 "Get a Premium Access" = "Hanki Premium";
-"Go Ghost" = "Go Ghost";
-"Go Ghost!" = "Go Ghost!";
-"Go Premium" = "Go Premium";
-"Go Premium!" = "Go Premium!";
+"Go Ghost" = "Muutu Haamuksi";
+"Go Ghost!" = "Muutu Haamuksi!";
+"Go Premium" = "Hanki Premium";
+"Go Premium!" = "Hanki Premium!";
 "Green" = "Vihreä";
 "Hide Info" = "Piilota Tiedot";
 "Hide My Age" = "Piilota Ikäni";
@@ -87,7 +87,7 @@
 "Like as many people as you want! No limits." = "Tykkää niin monesta ihmisestä kuin haluat! Ei rajoituksia.";
 "Liked or disliked by mistake? Undo it!" = "Tykkäsitkö tai jätitkö tykkäämättä vahingossa? Peruuta!";
 "Location" = "Sijainti";
-"Location Permission" = "Sijainnin lupa";
+"Location Permission" = "Sijainnin käyttö";
 "Location Settings" = "Sijaintiasetukset";
 "Log Out" = "Kirjaudu ulos";
 "Log in" = "Kirjaudu sisään";
@@ -101,7 +101,7 @@
 "Message sent" = "Viesti lähetetty";
 "Microphone Permission Denied!" = "Mikrofonilla ei ole lupaa!";
 "Month" = "Kuukausi";
-"Months" = "Kuukaudet";
+"Months" = "Kuukautta";
 "More" = "Lisää";
 "More Chat Requests" = "Lisää Viestipyyntöjä";
 "My Profile" = "Profiili";
@@ -174,7 +174,7 @@
 "This purchase will be applied on confirmation. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings." = "Tämä osto tulee voimaan vahvistuksen yhteydessä. Tilaus uusitaan automaattisesti, ellei tilausta peruta 24 tuntia ennen tilausjakson päättymistä. Voit peruuttaa tilauksen milloin tahansa iTunes- tilisi asetuksista.";
 "Type a message" = "Kirjoita viesti";
 "Unable to send email. Please check your email settings and try again" = "Sähköpostin lähettäminen ei onnistu. Tarkista sähköpostiasetukset ja yritä uudelleen";
-"Undo Actions" = "Peruuta toiminniot";
+"Undo Actions" = "Peruuta toiminnot";
 "Unlimited Likes" = "Rajoittamattomat tykkäykset";
 "Unmatch %@" = "En tykkääkkään henkilöstä %@";
 "Update Password" = "Päivitä Salasana";
