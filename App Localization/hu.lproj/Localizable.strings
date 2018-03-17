@@ -6,7 +6,7 @@
   Copyright © 2017 Florian Hebrard. All rights reserved.
 */
 
-// Tranlated by benciikee
+// Tranlated by Bence Petrezsely
 
 "%@ at %@" = "%@ itt: %@";
 "%d miles away" = "%d mérföldre tőled";
@@ -188,7 +188,7 @@
 "Want to hide your age? Go Premium!" = "Szeretnéd elrejteni a korodat? Válts prémiumra!";
 "Want to hide your location?" = "Szeretnéd elrejteni a tartózkodási helyed?";
 "Want to hide? Go Premium!" = "Szeretnéd elrejteni a tartózkodási helyed? Válts prémiumra!";
-"Want to use a custom location?" = "Want to use a custom location?";
+"Want to use a custom location?" = "Szeretnél egyéni tartózkodási helyet megadni?";
 "Waving needs your permission to record." = "A Waving számára engedélyezni kell a mikrofont.";
 "Welcome!" = "Üdvözöllek!";
 "What do you want to do with this conversation?" = "Mit szeretnél tenni ezzel a beszélgetéssel?";
