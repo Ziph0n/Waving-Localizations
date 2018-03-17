@@ -2,7 +2,7 @@
 
 Waving is an upcoming revolutionary dating application made by Ziph0n. I would like to translate Waving in as many languages as possible.
 
-**All translators, even if you don't translate everything in your language, will receive a lifetime free premium subscription.** Just add your Twitter handle at the top of the Localizable.strings file and I'll contact you.
+**All translators, even if you don't translate everything in your language, will get 50 free chat requests.** Just add your Twitter handle at the top of the Localizable.strings file and I'll contact you.
 
 ## How to translate Waving
 
