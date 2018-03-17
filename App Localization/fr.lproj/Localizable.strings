@@ -107,7 +107,7 @@
 "My Profile" = "Mon profil";
 "New password" = "Nouveau mot de passe";
 "Next" = "Suivant";
-"No birthday selected" = "Anniversaire non sélectionné";
+"No birthday selected" = "Date de naissance non sélectionnée";
 "Not Now" = "Pas maintenant";
 "Not allowed to make the payment" = "Non autorisé à payer";
 "Nothing to restore." = "Rien à restaurer.";
@@ -146,7 +146,7 @@
 "Search" = "Chercher";
 "Seems like spam" = "On dirait du spam";
 "Select a color" = "Sélectionnez une couleur";
-"Select your birthday" = "Sélectionnez votre date d’anniversaire";
+"Select your birthday" = "Sélectionnez votre date de naissance";
 "Send" = "Envoyer";
 "Send a chat request" = "Envoyer une demande de chat";
 "Set as main" = "Définir comme principal";
@@ -195,7 +195,7 @@
 "What do you want to do with this recording?" = "Que voulez-vous faire avec cet enregistrement ?";
 "What's your E-Mail?" = "Quel est votre E-Mail ?";
 "What's your name?" = "Quel est votre nom ?";
-"When's your birthday?" = "Quand est votre anniversaire ?";
+"When's your birthday?" = "Quand est votre date de naissance ?";
 "Why are you reporting this user?" = "Pourquoi signalez-vous cet utilisateur ?";
 "Woman" = "Une femme";
 "Women" = "Des femmes";
