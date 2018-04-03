@@ -252,3 +252,5 @@
 "New Match" = "Neuer Match";
 "Congratulations! You got a match with %@!" = "Glückwunsch! Du hast ein Match mit %@!";
 "This purchase will be applied on confirmation. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. See our <t>Terms of Service</t> and <p>Privacy Policy</p>" = "Dieser Kauf wird bei der Bestätigung aktiviert. Abonnements werden automatisch verlängert, wenn sie nicht innerhalb von 24 Stunden vor Ablauf des aktuellen Zeitraums storniert werden. Sie können Abbonements jederzeit in Ihren iTunes-Kontoeinstellungen stornieren. Siehe unsere <t> Nutzungsbedingungen </t> und <p> Datenschutzrichtlinie </p> ";
+"You sent a voice message" = "Sie haben eine Sprachnachricht gesendet";
+"You received a voice message" = "Sie haben eine Sprachnachricht erhalten";
